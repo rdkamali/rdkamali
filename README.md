@@ -7,8 +7,6 @@ I am very interested in the field of software development and Recommended system
 I’m a hard worker, honest, enthusiastic, highly motivated, flexible to work with any technology and welcome changes and have lots of plans in my mind.
 </p>
 
-- 👯 I’m looking to collaborate on [Wagtail](https://github.com/wagtail/wagtail)
-
 - 💬 Ask me about **Python, Android, AWS**
 
 - 📫 How to reach me **rd.kamali@gmail.com**
